@@ -1,0 +1,41 @@
+{
+  "name": "git_add",
+  "version": "0.0.1",
+  "description": "xushanshan",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xss392795158/git_add.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "xss392795158",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xss392795158/git_add/issues"
+  },
+  "homepage": "https://github.com/xss392795158/git_add#readme",
+  "dependencies": {
+    "cnpm": "^3.10.6",
+    "css-loader": "^0.23.1",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.3.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "cnpm": "^3.10.6",
+    "css-loader": "^0.23.1",
+    "less": "^2.7.2",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.3.3"
+  }
+}
